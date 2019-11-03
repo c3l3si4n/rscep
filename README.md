@@ -15,7 +15,7 @@ rscep is a CLI tool for consulting brazilian zip codes (made in the beloved Rust
 
 ## Authors
 
-* **Daniel Matsumoto** - *general work* - [PurpleBooth](https://github.com/DanielMatsumoto)
+* **Daniel Matsumoto** - *general work* - [github profile](https://github.com/DanielMatsumoto)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
