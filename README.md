@@ -7,6 +7,24 @@ rscep is a CLI tool for consulting brazilian zip codes (made in the beloved Rust
 ### Prerequisites
 
 - Rust
+- Cargo
+
+## Installing
+
+Clone the project repository
+```bash
+git clone "https://github.com/danielmatsumoto/rscep/"
+```
+enter the newly created folder
+```bash
+cd rscep
+```
+build and run the package with the following commands
+```bash
+cargo build --release
+cargo run
+```
+
 
 
 ## Built With
