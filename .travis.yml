@@ -2,7 +2,7 @@ language: rust
 script:
         - cargo test --verbose
         - PKG_CONFIG_ALLOW_CROSS=1 cargo build --target x86_64-unknown-linux-musl --release --verbose --features vendored
-        - $HOME/.cargo/bin/cross build --target x86_64-pc-windows-gnu
+        - $HOME/.cargo/bin/cross build --target x86_64-pc-windows-gnu --release --verbose --features vendored
 rust:
         - stable
 jobs:
