@@ -1,4 +1,5 @@
 # rscep 
+[![Build Status](https://travis-ci.org/danielmatsumoto/rscep.svg?branch=master)](https://travis-ci.org/danielmatsumoto/rscep)
 
 rscep is a CLI tool for consulting brazilian zip codes (made in the beloved Rust)
 
